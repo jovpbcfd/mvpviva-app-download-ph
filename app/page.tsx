@@ -28,7 +28,7 @@ export default function Home() {
         <div className="flex items-center justify-center gap-10">
           <div className="">
             <Image
-              src="/img/JOIN.png"
+              src="/img/MVPVIVA _JOIN.png"
               width={300}
               height={300}
               alt="Join now"
@@ -91,7 +91,7 @@ export default function Home() {
         </div>
         <div className="mt-10 flex items-center justify-center pb-10">
           <Image
-            src="/img/websitelower_EN.png"
+            src="/img/websitelower_TL.png"
             width={0}
             height={0}
             alt="Step 3"

@@ -45,7 +45,7 @@ export default function Header() {
                   className="w-[30px] rounded-xs  md:w-[20px]"
                   alt="ph flag"
                 />
-                <span className="ml-2 hidden md:block">English</span>
+                <span className="ml-2 hidden md:block">Tagalog</span>
               </Link>
             </div>
             {/* <button
