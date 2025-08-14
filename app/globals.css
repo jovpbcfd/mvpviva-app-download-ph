@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+
+.active-btn {
+    background-image: linear-gradient(to bottom, #f9d95f, #ffeb9e, #ffeb9e, #f9d95f);;
+}
