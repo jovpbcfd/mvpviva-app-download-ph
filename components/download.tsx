@@ -29,9 +29,8 @@ export default function Download() {
               : "bg-[linear-gradient(135deg,#3e4b7c_0%,#283151_100%)]"
           } uppercase font-semibold rounded-md px-3 py-2 text-pretty text-wrap max-w-xs leading-5`}
           onClick={() => setSelected("ios")}
-      
         >
-        mvpviva ios home screen
+          mvpviva ios home screen
         </button>
       </div>
       <div>
@@ -59,7 +58,7 @@ export default function Download() {
                   <h3 className="pt-5 flex items-center gap-2">
                     <span className="text-[#ffeb9e] font-bold text-2xl">1</span>
                     <span className="text-md text-balance">
-                      Buksan ang Safari app sa iyong iOS device at pumunta sa:
+                      Launch the Safari app on your IOS Device and go to
                       <Link
                         href="https://jk6.co/CPE6s7"
                         className="block text-[#ffeb9e]"
@@ -73,8 +72,8 @@ export default function Download() {
                   <h3 className="pb-3 flex items-center gap-2">
                     <span className="text-[#ffeb9e] font-bold text-2xl">2</span>
                     <span className="text-md">
-                      Pindutin ang button na &quot;
-                      <span className="font-semibold">SHARE</span>&quot;.
+                      Press the &quot;
+                      <span className="font-semibold">SHARE</span>&quot; button.
                     </span>
                   </h3>
                   <div className="rounded-md">
@@ -92,7 +91,7 @@ export default function Download() {
                   <h3 className="pb-3 flex items-center gap-2">
                     <span className="text-[#ffeb9e] font-bold text-2xl">3</span>
                     <span className="text-md">
-                      Piliin ang &quot;
+                      Select &quot;
                       <span className="font-semibold">Add to Home Screen</span>
                       &quot;.
                     </span>
@@ -112,8 +111,9 @@ export default function Download() {
                   <h3 className="pb-3 flex items-center gap-2">
                     <span className="text-[#ffeb9e] font-bold text-2xl">4</span>
                     <span className="text-md">
-                      Pindutin ang button na &quot;<span className="font-semibold">Add</span>
-                      &quot;.
+                      Press &quot;
+                      <span className="font-semibold">Add</span>
+                      &quot; button.
                     </span>
                   </h3>
                   <div className="rounded-md">
@@ -131,7 +131,7 @@ export default function Download() {
                   <h3 className="pb-3 flex items-center gap-2">
                     <span className="text-[#ffeb9e] font-bold text-2xl">5</span>
                     <span className="text-md">
-                      Mag-enjoy sa paglalaro gamit ang Panalobet sa pamamagitan ng simpleng pag-click sa app.
+                      Enjoy playing with MVPVIVA by simply clicking the app.
                     </span>
                   </h3>
                 </div>

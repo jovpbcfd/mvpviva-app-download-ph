@@ -8,10 +8,10 @@ export default function Home() {
       {/* mobile */}
       <div className="py-4 md:hidden">
         <h1 className="text-white uppercase font-[900] text-xl text-center">
-          I-download na ang Panalobet app sa iyong cellphone ngayon!
+          Download the mvpviva app onto your phone today
         </h1>
         <p className="mt-2 text-[#ffeb9e] text-md italic text-center font-bold uppercase">
-          I-download at mag-enjoy
+          Download now and enjoy
         </p>
       </div>
       {/* web */}
