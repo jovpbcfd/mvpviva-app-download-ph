@@ -3,7 +3,9 @@ import Link from "next/link";
 
 export default function Header() {
   return (
-    <header className={`bg-[#161930] transition-all duration-300 ease-in-out md:border-b-3 border-[#ffeb9e]`}>
+    <header
+      className={`bg-[#161930] transition-all duration-300 ease-in-out md:border-b-3 border-[#ffeb9e]`}
+    >
       <div className={`bg-[#161930] transition-shadow duration-300 shadow-lg`}>
         <div className="w-full max-w-[1230px] mx-auto text-white">
           <div className="flex flex-row justify-between items-center px-2 py-4 md:flex-row md:py-4 md:px-[22px]">
@@ -39,13 +41,13 @@ export default function Header() {
                             "
               >
                 <Image
-                  src="/img/ph.webp"
+                  src="/img/BANGLADESH.webp"
                   width={20}
                   height={20}
                   className="w-[30px] rounded-xs  md:w-[20px]"
                   alt="ph flag"
                 />
-                <span className="ml-2 hidden md:block">Tagalog</span>
+                <span className="ml-2 hidden md:block">Bengali</span>
               </Link>
             </div>
             {/* <button
