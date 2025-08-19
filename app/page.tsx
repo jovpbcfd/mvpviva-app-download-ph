@@ -77,7 +77,7 @@ export default function Home() {
                 alt="QR Android"
                 className="mb-5"
               />
-              <Link href="https://jk6.co/CPE6s7">
+              <Link href="https://mvpviva.live/JZ2KH">
                 <Image
                   src="/img/IOS_home_screen_button_bang.png"
                   width={400}

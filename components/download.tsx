@@ -60,10 +60,10 @@ export default function Download() {
                     <span className="text-md text-balance">
                       Launch the Safari app on your IOS Device and go to
                       <Link
-                        href="https://jk6.co/CPE6s7"
+                        href="https://mvpviva.live/JZ2KH"
                         className="block text-[#ffeb9e]"
                       >
-                        https://jk6.co/CPE6s7
+                        https://mvpviva.live/JZ2KH
                       </Link>
                     </span>
                   </h3>
