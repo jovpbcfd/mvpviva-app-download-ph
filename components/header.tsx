@@ -59,31 +59,6 @@ export default function Header() {
           </div>
         </div>
       </div>
-
-      {/* <div
-        className={`
-    text-white transition-all duration-500 ease-in-out overflow-hidden
-    ${
-      mobileMenuOpen
-        ? "max-h-[500px] opacity-100 translate-y-0"
-        : "max-h-0 opacity-0 -translate-y-4"
-    }
-  `}
-      >
-        <div className="flex flex-col justify-center items-center mt-4 gap-4 pb-5 mx-auto md:hidden px-2">
-          <Link
-            href="#"
-            className="bg-[linear-gradient(135deg,#8EE4FF_0%,#3495FF_100%)]
-        w-full
-         py-3 rounded-full shadow-md text-center lg:px-4
-        transition-transform transform hover:scale-105 duration-300
-        md:w-[150px]
-        flex items-center justify-center"
-          >
-            LOGIN
-          </Link>
-        </div>
-      </div> */}
     </header>
   );
 }
