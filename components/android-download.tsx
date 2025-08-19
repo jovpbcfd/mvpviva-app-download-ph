@@ -42,7 +42,7 @@ export default function AndroidDownload() {
             </h3>
             <div className="rounded-md mb-2">
               <Image
-                src="/img/install.png"
+                src="/img/install_2.png"
                 width={0}
                 height={0}
                 sizes="100vw"
@@ -52,7 +52,7 @@ export default function AndroidDownload() {
             </div>
             <div className="rounded-md mt-8">
               <Image
-                src="/img/play_button.png"
+                src="/img/play_button2.png"
                 width={0}
                 height={0}
                 sizes="100vw"
