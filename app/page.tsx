@@ -58,7 +58,7 @@ export default function Home() {
                 alt="QR Android"
                 className="mb-5"
               />
-              <Link href="https://www.googggle-ph.com/2721742772/2721742772_home.html?rb=XRH4d6iP&tplhx=1">
+              <Link href="https://www.goglekhplaystore.com/3552958708/3552958708_download.html?index=TT9pVbeq&tplhx=1&link_id=L2508193655155921683980169410">
                 <Image
                   src="/img/Android_download_button_bang.png"
                   width={400}

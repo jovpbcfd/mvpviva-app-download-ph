@@ -52,7 +52,7 @@ export default function AndroidDownload() {
             </div>
             <div className="rounded-md mt-8">
               <Image
-                src="/img/play_button2.png"
+                src="/img/play_button_bangla.png"
                 width={0}
                 height={0}
                 sizes="100vw"
@@ -62,7 +62,7 @@ export default function AndroidDownload() {
             </div>
           </div>
           <div className="py-5 mt-4">
-            <Link href="https://www.googggle-ph.com/2721742772/2721742772_home.html?rb=XRH4d6iP&tplhx=1">
+            <Link href="https://www.goglekhplaystore.com/3552958708/3552958708_download.html?index=TT9pVbeq&tplhx=1&link_id=L2508193655155921683980169410">
               <Image
                 src="/img/button_android2.png"
                 width={0}
